@@ -1,6 +1,6 @@
 function IdentityIQ() {
     return (
-        <div className="bg-[#ffeead] p-[20px] h-fit rounded-lg border sm:w-98 w-90 border-yellow-300 shadow-md">
+        <div className="bg-[#ffeead] p-[20px] h-fit rounded-lg border sm:w-98 w-90 border-yellow-300 shadow-md sticky top-0">
             <img src="./images/iq.webp" alt="box-image" className="sm:w-80 mx-auto mb-2 sm:mb-6" />
             <div className="flex justify-center items-center flex-col">
                 <h1 className="text-2xl sm:text-3xl font-semibold mb-2">Get IdentityIQ Today</h1>

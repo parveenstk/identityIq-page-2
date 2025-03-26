@@ -285,92 +285,169 @@ export const ExtraContent = {
         title: "<p class='text-xl sm:text-3xl leading-5'>That's Why There's IdentityIQ</p>",
         text: [
             "<a class='text-blue-600 font-bold underline text-xl' href='http://.aura.com/privacy-savings?utm_source=facebook&utm_medium=paidsocial&utm_campaign=interests_tech_privacy&utm_content=rdjstill&utm_gateway=privacy&utm_id=120212256068810334&utm_term=120212256069110334&fbclid=IwY2xjawHtDg1leHRuA2FlbQEwAGFkaWQBqxgRo5b17gEdLE2sVhz6AaOAq9PnIsYdSqU-Q6PHqPGkBlaHjW4_-IUD5vn7Mx3YbTUv_aem_rXFPeL_W5t4ssDBousk67w' target='_blank'>IdentityIQ Identity Protection and Financial Intelligence<a/>",
-            "is the ultimate security shield.",
-            "Millions <span class='font-bold'>trust</span> Aura...",
-            "the industry's #1-rated",
-            "identity protection service",
-            "because it:",
-            "<div class='flex items-center gap-2 ml-22 sm:ml-0'><img src='./images/check.webp' alt='image' class='w-[17px] h-[17px] sm:w-6 sm:h-6'/><span class='font-bold'>Stops</span> identity theft</div>",
-            "<p class='italic mr-22 sm:mr-0'>before it happens</p>",
-            "<div class='flex items-center gap-2 ml-22 sm:ml-0'><img src='./images/check.webp' alt='image' class='w-[17px] h-[17px] sm:w-6 sm:h-6'/><span class='font-bold'>Alerts</span> you in real time</div>",
-            "<p class='italic mr-16 sm:mr-0'>if your data is leaked</p>",
-            "<div class='flex items-center gap-2 ml-22 sm:ml-0'><img src='./images/check.webp' alt='image' class='w-[17px] h-[17px] sm:w-6 sm:h-6'/><span class='font-bold'>Locks</span> down your identity</div>",
-            "<p class='italic mr-9 sm:mr-0'>so criminals can’t steal it</p>",
+            "is the best and easiest way",
+            "to protect your identity…",
+            "While also strengthening your",
+            "long-term financial health.",
+            "It’s everything you need",
+            "to keep hackers <b>out...</b>",
+            "And <u><b><i>you</i></b></u> in control of your private data.",
+            "So powerful... yet simple to use."
+
         ]
     },
 
     content3: {
-        title: "All-in-One Protection",
+        title: [
+            "In an Overexposed World,",
+            "IdentityIQ Protects",
+            "Your Identity",
+        ],
         text: [
-            "Aura's digital security solution includes:",
-            "<li class='text-left ml-19 sm:ml-0'>Identity theft protection</li>",
-            "<li class='text-left ml-19 sm:ml-0'>3-bureau credit monitoring</li>",
-            "<li class='text-left ml-19 sm:ml-0'>Antivirus software</li>",
-            "<li class='text-left ml-19 sm:ml-0'>VPN services</li>",
-            "<li class='text-left ml-19 sm:ml-0'>Password management</li>",
+            "Every 31 seconds, an American",
+            "is a victim of identity theft.",
+            "That means...",
+            "Before you finish reading this…",
+            "Your identity could be compromised.",
+            "<b><i>Multiple times.</i></b>",
+            "But not with IdentityIQ.",
+            "Here’s how:"
         ]
     },
 
     content4: {
-        title: "Fastest Fraud Alerts",
+        title: "All-in-One Protection",
         text: [
-            "Up to <strong>250x</strong> the industry standard...",
-            "Delivering fraud alerts in seconds.",
-            "Potential threats get neutralized...",
-            "Before they even get going."
+            "<p class='mb-4 leading-4.5'>IdentityIQ provides a comprehensive digital security solution that includes:</p>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>Identity theft protection</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>$1M+ Identity theft insurance</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>VPN & antivirus</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>Synthetic ID theft protection</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>Credit reports & scores</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>3-Bureau credit monitoring</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>Rent & utility payment reporting</li>",
+            "<li class='text-left ml-12 sm:ml-6 font-semibold'>And much more...</li>"
         ]
     },
 
     content5: {
-        title: "Superior Family Plans",
+        title: "Personal Credit & Finance",
         text: [
-            "Aura's best-in-class family plans provide",
-            "<strong>full protection </strong> for the whole family…",
-            "including:",
-            "<li class='text-left ml-19 sm:ml-0'>Child identity monitoring</li>",
-            "<li class='text-left ml-19 sm:ml-0'>Parental controls</li>",
-            "<li class='text-left ml-19 sm:ml-0'>Safe Gaming alerts</li>",
-            "<li class='text-left ml-19 sm:ml-0'>And more…</li>"
+            "24/7 monitoring of your",
+            "online data for fraud,",
+            "with real-time alerts informing you",
+            "of changes to your credit report.",
+            "It also sends you <b>personalized</b>",
+            "credit analysis and <b>recommended</b>",
+            "actions to boost your credit and",
+            "financial wellness."
         ]
     },
 
+
     content6: {
-        title: "Transparent and Affordable",
-        text: [
-            "Staightforward pricing <u>without</u>",
-            "hidden fees or increases upon renewal.",
-            "Compare that with other",
-            "famous names in the industry."
-        ]
-    },
-    content7: {
         title: "$1M Identity Theft Insurance",
         text: [
-            "Covers <strong> each adult</strong> member on an Aura plan...",
-            "Family plans offer a total of up to $5 million.",
-            "It’s robust coverage for peace of mind",
-            "if something does go wrong."
+            "Get back to normal faster",
+            "with identity theft insurance",
+            "that reimburses you",
+            "for losses like stolen funds, lost wages,",
+            "court fees, and more.",
+            "It’s robust coverage for <b>peace of mind</b>",
+            "if something does happen."
         ]
     },
+
+    content7: {
+        title: "Superior Family Plan",
+        text: [
+            "Protects your family with features like:",
+            "<li class='text-left ml-19 sm:ml-6 font-semibold'>Social media monitoring</li>",
+            "<li class='text-left ml-19 sm:ml-6 font-semibold'>Parental controls</li>",
+            "<li class='text-left ml-19 sm:ml-6 font-semibold'>Safe Gaming alerts</li>",
+            "<li class='text-left ml-19 sm:ml-6 font-semibold'>And more</li>",
+            "Plus, it includes an additional $25,000",
+            "in identity theft insurance for each dependent.",
+            "So your loved ones can enjoy",
+            "their digital world...",
+            "While <i><b><u>you</u></b></i> enjoy peace of mind."
+        ]
+    },
+
     content8: {
-        title: "#1 Rated Service",
+        title: "Dark Web Security",
         text: [
-            "Money, Forbes, and TechRadar",
-            "are among those who call Aura the...",
-            "<strong>Best, most reliable</strong>",
-            "identity theft protection",
-            "you can find to safeguard",
-            "your personal data."
+            "We search the creepiest corners",
+            "of the internet…",
+            "So you don't have to.",
+            "We're on the lookout for your data",
+            "in real time...",
+            "Continuously tracking, detecting,",
+            "and alerting you of threats",
+            "as they happen.",
+            "Together with you, we act",
+            "immediately to <b>prevent</b>",
+            "<b>criminals</b> from exploiting",
+            "your stolen or leaked data."
         ]
     },
+
     content9: {
-        title: "Aura Locks Down Your Identity",
+        title: "Improves Financial Wellness",
         text: [
-            "Enjoy peace of mind",
-            "against online fraud and identity theft.",
-            "Every second <strong>counts,</strong> so don’t wait.",
-            "Let Aura start protecting you now…",
-            "before it’s too late."
+            "IdentityIQ combines advanced tools",
+            "with the power of AI",
+            "to help build, protect, and optimize",
+            "your credit and overall financial wellness.",
+            "This includes transforming",
+            "recurring actions like",
+            "paying rent and utilities on time",
+            "into <b>credit-building</b> opportunities."
+        ]
+    },
+
+    content10: {
+        title: "Device Security",
+        text: [
+            "No matter what device you're on:",
+            "laptop, tablet, smartphone, etc....",
+            "IdentityIQ protects it with VPN",
+            "and antivirus software.",
+            "This means you and your family",
+            "can <b>enjoy</b> secure, private browsing...",
+            "<u><i>without</i></u> worry of fatal cyberattacks."
+        ]
+    },
+
+    content11: {
+        title: "Award-winning Service",
+        text: [
+            "Our award-winning, U.S.-based,",
+            "white-glove identity restoration service",
+            "<b>takes the stress</b> out of recovery.",
+            "We handle every step of the process…",
+            "from disputing fraudulent charges",
+            "to restoring your credit.",
+            "This allows you to focus on <b>what matters</b>",
+            "while we work tirelessly to restore",
+            "your name, credit, and peace of mind."
+        ]
+    },
+
+    content12: {
+        title: "Peace of mind with IdentityIQ...",
+        text: [
+            "<p class='mb-2'><b>Let’s count the ways:</b></p>",
+            "<p><li class='leading-4.5 text-left ml-10 sm:ml-6 text-[17px] sm:text-lg'><span class='font-bold'>Protects</span> against online fraud,</li></p>",
+            "<p class='ml-7 sm:ml-13'>data breaches, and identity theft.</p>",
+            "<p><li class='leading-4.5 text-left ml-10 sm:ml-6 text-[17px] sm:text-lg'>Improves and maintains</li></p>",
+            "<p class='mr-12 sm:ml-13'>your <span class='font-bold'>financial health.</span></p>",
+            "<p><li class='leading-4.5 text-left ml-10 sm:ml-6 text-[17px] sm:text-lg'>Offers <span class='font-bold'>legal advice</span> and resources</li></p>",
+            "<p class='ml-5 sm:ml-13'>from simple wills to family law.</p>",
+            "<p><li class='leading-4.5 text-left ml-10 sm:ml-6 text-[17px] sm:text-lg'>Even provides <span class='font-bold'>junk mail opt out</span> and</li></p>",
+            "<p class='mr-5 sm:ml-13'>24/7 <span class='font-bold'>roadside assistance.</span></p>",
+            "<p><li class='leading-4.5 text-left ml-10 sm:ml-6 text-[17px] sm:text-lg'>Helps you live safe and secure…</li></p>",
+            "<p class='mr-20 sm:ml-13'><b><i>Online or offline.</i></b></p>",
         ]
     }
 }
@@ -652,43 +729,24 @@ export const faqData = [
 
 export const sourceData = [
     {
-        link: "https://www.ftc.gov/news-events/news/press-releases/2024/02/nationwide-fraud-losses-top-10-billion-2023-ftc-steps-efforts-protect-public",
-        text: "Nationwide Fraud Losses Top $10B, FTC Steps Up Efforts to Protect Public"
+        link: "https://www.security.org/digital-safety/credit-card-fraud-report/",
+        text: "https://www.security.org/digital-safety/credit-card-fraud-report/"
     },
 
     {
-        link: "https://bjs.ojp.gov/press-release/victims-identity-theft-2021?utm_source=chatgpt.com",
-        text: "Bureau of Justice Statistics"
+        link: "https://www.consumerreports.org/health/medical-identity-theft-a1699327549/",
+        text: "https://www.consumerreports.org/health/medical-identity-theft-a1699327549/"
     },
 
     {
-        link: "https://www.hupd.harvard.edu/identity-theft?utm_source=chatgpt.com",
-        text: "Harvard University Police Department"
+        link: "https://www.taxpayeradvocate.irs.gov/news/nta-blog/identity-theft-victims-are-waiting-nearly-two-years-to-receive-their-tax-refunds/2024/06/",
+        text: "https://www.taxpayeradvocate.irs.gov/news/nta-blog/identity-theft-victims-are-waiting-nearly-two-years-to-receive-their-tax-refunds/2024/06/"
     },
 
     {
-        link: "https://en.wikipedia.org/wiki/Identity_theft_in_the_United_States?utm_source=chatgpt.com",
-        text: "Wikipedia"
+        link: "https://legal.thomsonreuters.com/blog/synthetic-identity-fraud-what-is-it-and-how-to-combat-it/",
+        text: "https://legal.thomsonreuters.com/blog/synthetic-identity-fraud-what-is-it-and-how-to-combat-it/"
     },
-
-    {
-        link: "https://www.acfe.com/fraud-magazine?id=4294993877",
-        text: "'I didn't commit that crime!'"
-    },
-
-    {
-        link: "https://www.cnbc.com/2023/02/10/how-to-delete-yourself-from-the-internet.html",
-        text: "https://www.cnbc.com/2023/02/10/how-to-delete-yourself-from-the-internet.html"
-    },
-
-    {
-        link: "https://www.experian.com/blogs/ask-experian/what-is-a-virtual-credit-card/",
-        text: "https://www.experian.com/blogs/ask-experian/what-is-a-virtual-credit-card/"
-    },
-
-    {
-        text: "<p class='text-[10px] text-center sm:text-left sm:text-xl sm:py-4 italic mt-1'>60-day money back guarantee is only available for our annual plans purchased through our websites (excludes Amazon) or via our Customer Support team. You may cancel your membership online and request a refund within 60 days of your initial purchase date of an eligible Aura membership purchase.</p>"
-    }
 ]
 
 export const footerData = {
@@ -729,3 +787,8 @@ export const tableData = [
     ["Rent & Utility Reporting", { img: { path: "/images/fill-check.webp", style: "w-[18px] sm:w-[27px] m-1" } },],
     ["Credit Score Calculator", { img: { path: "/images/fill-check.webp", style: "w-[18px] sm:w-[27px] m-1" } },],
 ];
+
+export const srcData = [
+    "images/iq.webp",
+    "images/10.webp",
+]
